@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/TravelInfoAPI-ReactJS/static/css/main.44b569af.chunk.css",
+    "main.js": "/TravelInfoAPI-ReactJS/static/js/main.e34b7bcc.chunk.js",
+    "main.js.map": "/TravelInfoAPI-ReactJS/static/js/main.e34b7bcc.chunk.js.map",
+    "runtime-main.js": "/TravelInfoAPI-ReactJS/static/js/runtime-main.d374f369.js",
+    "runtime-main.js.map": "/TravelInfoAPI-ReactJS/static/js/runtime-main.d374f369.js.map",
+    "static/css/2.11829350.chunk.css": "/TravelInfoAPI-ReactJS/static/css/2.11829350.chunk.css",
+    "static/js/2.3136b3f8.chunk.js": "/TravelInfoAPI-ReactJS/static/js/2.3136b3f8.chunk.js",
+    "static/js/2.3136b3f8.chunk.js.map": "/TravelInfoAPI-ReactJS/static/js/2.3136b3f8.chunk.js.map",
+    "index.html": "/TravelInfoAPI-ReactJS/index.html",
+    "precache-manifest.5021a87145650ff78db951def0b0beb5.js": "/TravelInfoAPI-ReactJS/precache-manifest.5021a87145650ff78db951def0b0beb5.js",
+    "service-worker.js": "/TravelInfoAPI-ReactJS/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/TravelInfoAPI-ReactJS/static/css/2.11829350.chunk.css.map",
+    "static/css/main.44b569af.chunk.css.map": "/TravelInfoAPI-ReactJS/static/css/main.44b569af.chunk.css.map",
+    "static/js/2.3136b3f8.chunk.js.LICENSE.txt": "/TravelInfoAPI-ReactJS/static/js/2.3136b3f8.chunk.js.LICENSE.txt",
+    "static/media/cover.jpg": "/TravelInfoAPI-ReactJS/static/media/cover.87426b41.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d374f369.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.3136b3f8.chunk.js",
+    "static/css/main.44b569af.chunk.css",
+    "static/js/main.e34b7bcc.chunk.js"
+  ]
+}
